@@ -653,7 +653,7 @@
   "url": "https://github.com/hiero-hackers/analytics/issues",
   "label": "Suggest a correction"
  },
- "generated_at": "2026-09-01T13:58:28.919159+00:00",
+ "generated_at": "2026-09-06T12:40:19.129334+00:00",
  "stale": false,
  "group": "Organisation diversity",
  "variants": [
@@ -1312,7 +1312,7 @@
     "url": "https://github.com/hiero-hackers/analytics/issues",
     "label": "Suggest a correction"
    },
-   "generated_at": "2026-09-01T13:58:28.919159+00:00",
+   "generated_at": "2026-09-06T12:40:19.129334+00:00",
    "stale": false
   },
   {
@@ -1964,12 +1964,6 @@
      "method": "automated"
     },
     {
-     "login": "san-est",
-     "organisation": "LimeChain",
-     "status": "affiliated",
-     "method": "automated"
-    },
-    {
      "login": "scalemaildev",
      "organisation": "ScalemaiL",
      "status": "affiliated",
@@ -2120,13 +2114,13 @@
      "method": "automated"
     }
    ],
-   "row_count": 130,
+   "row_count": 129,
    "label": "Committers",
    "action": {
     "url": "https://github.com/hiero-hackers/analytics/issues",
     "label": "Suggest a correction"
    },
-   "generated_at": "2026-09-01T13:58:30.138322+00:00",
+   "generated_at": "2026-09-06T12:40:20.322213+00:00",
    "stale": false
   }
  ],
