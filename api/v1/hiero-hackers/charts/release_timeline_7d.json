@@ -1,0 +1,64 @@
+{
+ "schema_version": 1,
+ "id": "release_timeline_7d",
+ "kind": "events",
+ "org": "hiero-hackers",
+ "source": "release_timeline.csv",
+ "metric": "releases",
+ "unit": "Published releases",
+ "population": "Each published GitHub release, by repository and publication time (UTC). Drafts are excluded; prereleases are marked. Repositories with no release in the window are not shown.",
+ "dimensions": [
+  "repo",
+  "type"
+ ],
+ "category": {
+  "key": "repo",
+  "label": "Repository"
+ },
+ "label": {
+  "key": "tag_name",
+  "label": "Tag"
+ },
+ "types": [
+  {
+   "key": "release",
+   "label": "Release",
+   "color": "var(--chart-2)"
+  },
+  {
+   "key": "prerelease",
+   "label": "Prerelease",
+   "color": "var(--chart-1)"
+  }
+ ],
+ "categories": [
+  "sdk-automations"
+ ],
+ "window": {
+  "kind": "trailing",
+  "days": 7,
+  "end": "2026-10-25T05:43:14.047782+00:00"
+ },
+ "rows": [
+  {
+   "repo": "sdk-automations",
+   "time": "2026-10-18T15:07:09Z",
+   "tag_name": "v0.1.0",
+   "type": "prerelease"
+  },
+  {
+   "repo": "sdk-automations",
+   "time": "2026-10-19T20:04:32Z",
+   "tag_name": "v0.1.1",
+   "type": "prerelease"
+  },
+  {
+   "repo": "sdk-automations",
+   "time": "2026-10-24T16:35:23Z",
+   "tag_name": "v0.1.2",
+   "type": "prerelease"
+  }
+ ],
+ "generated_at": "2026-10-25T05:43:14.047782+00:00",
+ "stale": false
+}

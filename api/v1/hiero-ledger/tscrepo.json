@@ -1229,10 +1229,21 @@
    "issues_opened": 0,
    "labels_applied": 0,
    "last_active": "2022-09-14 06:57:50+00:00"
+  },
+  {
+   "account": "stoqnkpL",
+   "repo": "hiero-ledger/.github",
+   "repo_role": "maintainer",
+   "prs_opened": 0,
+   "reviews_given": 1,
+   "merges_done": 0,
+   "issues_opened": 0,
+   "labels_applied": 0,
+   "last_active": "2026-10-22 10:41:26+00:00"
   }
  ],
- "row_count": 108,
- "generated_at": "2026-10-21T14:24:33.472375+00:00",
+ "row_count": 109,
+ "generated_at": "2026-10-25T05:40:34.310470+00:00",
  "stale": false,
  "periods": {
   "7d": [
@@ -1246,28 +1257,6 @@
     "issues_opened": 0,
     "labels_applied": 0,
     "last_active": "2026-10-19 11:55:39+00:00"
-   },
-   {
-    "account": "hendrikebbers",
-    "repo": "hiero-ledger/hiero-website",
-    "repo_role": "maintainer",
-    "prs_opened": 0,
-    "reviews_given": 1,
-    "merges_done": 0,
-    "issues_opened": 0,
-    "labels_applied": 0,
-    "last_active": "2026-10-15 14:08:47+00:00"
-   },
-   {
-    "account": "hendrikebbers",
-    "repo": "hiero-ledger/solo-docs",
-    "repo_role": "general",
-    "prs_opened": 0,
-    "reviews_given": 0,
-    "merges_done": 1,
-    "issues_opened": 0,
-    "labels_applied": 0,
-    "last_active": "2026-10-17 08:15:45+00:00"
    },
    {
     "account": "hendrikebbers",
@@ -1285,11 +1274,22 @@
     "repo": "hiero-ledger/hiero-consensus-specifications",
     "repo_role": "maintainer",
     "prs_opened": 1,
-    "reviews_given": 2,
+    "reviews_given": 0,
     "merges_done": 0,
     "issues_opened": 0,
     "labels_applied": 0,
     "last_active": "2026-10-19 14:55:22+00:00"
+   },
+   {
+    "account": "stoqnkpL",
+    "repo": "hiero-ledger/.github",
+    "repo_role": "maintainer",
+    "prs_opened": 0,
+    "reviews_given": 1,
+    "merges_done": 0,
+    "issues_opened": 0,
+    "labels_applied": 0,
+    "last_active": "2026-10-22 10:41:26+00:00"
    }
   ],
   "30d": [
@@ -1297,9 +1297,9 @@
     "account": "hendrikebbers",
     "repo": "hiero-ledger/governance",
     "repo_role": "maintainer",
-    "prs_opened": 2,
-    "reviews_given": 11,
-    "merges_done": 12,
+    "prs_opened": 0,
+    "reviews_given": 7,
+    "merges_done": 8,
     "issues_opened": 0,
     "labels_applied": 0,
     "last_active": "2026-10-14 13:42:19+00:00"
@@ -1309,7 +1309,7 @@
     "repo": "hiero-ledger/hiero-solo-action",
     "repo_role": "maintainer",
     "prs_opened": 0,
-    "reviews_given": 5,
+    "reviews_given": 4,
     "merges_done": 0,
     "issues_opened": 0,
     "labels_applied": 0,
@@ -1350,17 +1350,6 @@
    },
    {
     "account": "hendrikebbers",
-    "repo": "hiero-ledger/sdk-collaboration-hub",
-    "repo_role": "maintainer",
-    "prs_opened": 0,
-    "reviews_given": 2,
-    "merges_done": 0,
-    "issues_opened": 0,
-    "labels_applied": 0,
-    "last_active": "2026-09-23 14:56:15+00:00"
-   },
-   {
-    "account": "hendrikebbers",
     "repo": "hiero-ledger/solo-docs",
     "repo_role": "general",
     "prs_opened": 1,
@@ -1393,26 +1382,26 @@
     "last_active": "2026-10-20 15:54:59+00:00"
    },
    {
-    "account": "itsbrandondev",
-    "repo": "hiero-ledger/governance",
+    "account": "kantorcodes",
+    "repo": "hiero-ledger/hiero-consensus-specifications",
+    "repo_role": "maintainer",
+    "prs_opened": 1,
+    "reviews_given": 2,
+    "merges_done": 0,
+    "issues_opened": 0,
+    "labels_applied": 0,
+    "last_active": "2026-10-19 14:55:22+00:00"
+   },
+   {
+    "account": "stoqnkpL",
+    "repo": "hiero-ledger/.github",
     "repo_role": "maintainer",
     "prs_opened": 0,
     "reviews_given": 1,
     "merges_done": 0,
     "issues_opened": 0,
     "labels_applied": 0,
-    "last_active": "2026-09-24 19:30:05+00:00"
-   },
-   {
-    "account": "kantorcodes",
-    "repo": "hiero-ledger/hiero-consensus-specifications",
-    "repo_role": "maintainer",
-    "prs_opened": 1,
-    "reviews_given": 3,
-    "merges_done": 1,
-    "issues_opened": 0,
-    "labels_applied": 0,
-    "last_active": "2026-10-19 14:55:22+00:00"
+    "last_active": "2026-10-22 10:41:26+00:00"
    },
    {
     "account": "stoqnkpL",
@@ -1497,8 +1486,8 @@
     "account": "hendrikebbers",
     "repo": "hiero-ledger/sdk-collaboration-hub",
     "repo_role": "maintainer",
-    "prs_opened": 57,
-    "reviews_given": 113,
+    "prs_opened": 56,
+    "reviews_given": 112,
     "merges_done": 43,
     "issues_opened": 6,
     "labels_applied": 4,
@@ -1899,6 +1888,17 @@
     "issues_opened": 0,
     "labels_applied": 0,
     "last_active": "2026-08-24 12:52:17+00:00"
+   },
+   {
+    "account": "stoqnkpL",
+    "repo": "hiero-ledger/.github",
+    "repo_role": "maintainer",
+    "prs_opened": 0,
+    "reviews_given": 1,
+    "merges_done": 0,
+    "issues_opened": 0,
+    "labels_applied": 0,
+    "last_active": "2026-10-22 10:41:26+00:00"
    },
    {
     "account": "stoqnkpL",
